@@ -47,22 +47,8 @@
   - 🔧 **Tech:** Spring Boot / MySQL / Redis / Vue  
   - 🌟 Built a complete CMS system including user management, article management, category management, authentication, and permissions  
   - 🏗️ Supports frontend–backend separation and token-based authentication  
-  - 🔗 Backend Repo: **https://github.com/xclele/big-event-backend**
+  - 🔗 Backend Repo: **https://github.com/xclele/big-event-backend
 
 ---
 
-### 📫 Contact Me
-
-<p align="left">
-  <a href="mailto:cxie@cugxc.top"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/xclele"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-</p>
-
-
----
-
-### ⭐ If you like my work...
-
-<p align="center">
-  Feel free to star my repositories — thanks for your support!
-</p>
+### ⭐ If you like my work, Feel free to star my repositories — thanks for your support!
